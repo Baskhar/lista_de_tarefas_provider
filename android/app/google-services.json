@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "626334805434",
+    "project_id": "lista-tarefas-provider",
+    "storage_bucket": "lista-tarefas-provider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626334805434:android:6d605f4f9d056365540183",
+        "android_client_info": {
+          "package_name": "com.walysson.todo_list_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626334805434-nrom49ke3o451q3o81asth370i34fhr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walysson.todo_list_provider",
+            "certificate_hash": "8b703243a0d7dcace3deba189c179d396fccd6a8"
+          }
+        },
+        {
+          "client_id": "626334805434-1pvtvl5rn4so3u3505pkaflevfnsrgth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEcE-JUIOwP16zdWtPpkcufDOhU-7Gs-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626334805434-1pvtvl5rn4so3u3505pkaflevfnsrgth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
